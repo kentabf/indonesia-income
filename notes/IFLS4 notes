@@ -1,0 +1,130 @@
+/*
+
+<ks10aa>
+Educ exp last yr (mems in HH): tuition
+B1_KS0
+
+<ks11aa>
+Educ exp last yr (mems in HH): supplies
+B1_KS0
+
+<ks12aa>
+Educ exp last yr (mems in HH): transport
+B1_KS0
+
+<hhsize>
+Total HH's member
+BK_AR0
+
+<dla04a>
+Did you ever attend kindergarten
+B5_DLA1
+
+<dla07>
+Is child still in school?
+B5_DLA1
+
+<dl07a>
+Are you currently attending school?
+B3A_DL1
+
+
+<sex>
+Respondent's sex
+B5_COV
+
+<dla76J1>
+Time of a one-way trip to school
+B5_DLA2
+
+<baa06>
+What's highest level education of parent
+B5_BAA
+
+<age>
+Age of respondent
+B5_COV
+
+<sc05_93>
+93: Urban/rural residence
+HTRACK
+
+
+<dl16j>
+Time of a one-way trip to school
+B3A_DL2
+
+<sex>
+Sex
+B3A_COV
+
+<age>
+Age
+B3A_COV
+
+
+<kr03>
+What is the status your house?
+B2_KR
+
+
+<sc010707>
+Prov 2007 in 2007 BPS code
+HTRACK
+
+
+<kk01>
+Generally how is your health?
+B3B_KK1
+
+
+
+<age>
+How old are you?
+B3B_COV
+
+<sex>
+Sex
+B3B_COV
+
+
+<dl16j>
+Time of a one-way trip to school
+B3A_DL2
+
+<dl2type>
+Highest level school attended
+B3A_DL2
+
+
+
+<s40a>
+Major source of village income
+BK2
+
+
+<dkf4a>
+Number preprinted of Elementary School
+SAR_COV
+
+<dkf4b>
+Number supplement of Elementary School
+SAR_COV
+
+<dkf5a>
+Number preprinted of Secondary School
+SAR_COV
+
+<dkf5b>
+Number supplement of Secondary School
+SAR_COV
+
+<totfakes>
+Total number of Health facility
+SAR_COV
+
+<totfasek>
+Total number of School facility
+SAR_COV
+
+*/

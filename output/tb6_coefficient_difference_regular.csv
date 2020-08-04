@@ -1,0 +1,7 @@
+,(1),(1),(1),(2),(2),(2),(3),(3),(3),(4),(4),(4)
+School level,Coefficient difference,"F( 1, 1058)",Prob > F,Coefficient difference,"F( 1, 1057)",Prob > F,Coefficient difference,"F( 1, 1056)",Prob > F,Coefficient difference,"F( 1,  871)",Prob > F
+Elementary school,113.2,0.16,0.69,83.6,0.09,0.76,78.7,0.08,0.77,-81.7,0.20,0.65
+Middle school,-176.4,0.32,0.57,-160.2,0.28,0.6,-168.1,0.30,0.58,-48.4,0.06,0.81
+High school,-344.5,0.99,0.32,-365.5,1.16,0.28,-361.6,1.14,0.29,-389.9,3.11,0.08
+Note: numbers at top correspond to the original regression numbers.
+Note: coefficient difference calculated as subtracting coefficient of girls from that of boys.

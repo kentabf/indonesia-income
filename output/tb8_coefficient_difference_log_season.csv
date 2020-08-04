@@ -1,0 +1,5 @@
+,(1),(1),(1),(2),(2),(2),(3),(3),(3),(4),(4),(4)
+,Coefficient difference,"F( 1,  677)",Prob > F,Coefficient difference,"F( 1,  676)",Prob > F,Coefficient difference,"F( 1,  675)",Prob > F,Coefficient difference,"F( 1,  560)",Prob > F
+,0.351,1.63,0.2,0.595,4.73,0.03,0.609,4.96,0.03,0.765,5.92,0.02
+Note: numbers at top in parenthesis correspond to the original regression numbers.
+Note: coefficient difference calculated as subtracting coefficient of rainy season from that of dry season.

@@ -1,0 +1,141 @@
+
+Variables of interest:
+
+///////////////
+//// IFLS5 ////
+///////////////
+
+identify each observation with
+<hhid14>
+
+HOUSEHOLD CONSUMPTION; B1
+- <ks10aa>
+- approx. what was the total expenditures for school fees for children/family members inside the household during the past year?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B1.txt
+
+- <ks11aa>
+- approx. how much was spent for schooling needs for children/family members inside the household during the past year
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B1.txt
+
+- <ks12aa>
+- approx. how much was spent on school transportation and pocket money for children/family members in the household during the past year?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B1.txt
+
+
+INDIVIDUAL CHILD; B5
+- <baa06>
+- What's the highest level education of parents
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <sex>
+- Respondent's sex
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla04>
+- How old studied at ES
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla04a>
+- Did you ever attend kindergarten
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla07a>
+- How long child studied at school (hour)
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla08>
+- Level of education attended
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla70>
+- The school level you attended or you are still attending
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla71ax>
+- Do you know what year did you start this level of schooling
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla76j2>
+- How much time does it take to make a one-way trip to school?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+- <dla104BX_a2>
+- Estimate Rp spent in last month: tuition and fees (able to answer)
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B5.txt
+
+
+INIDIVIDUAL ADULT PART A; B3A
+- <dl05b>
+- Did you attend kindergarten
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl05c>
+- At what age did you attend the kindergarten
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl06>
+- Highest level of education attended
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl07a>
+- Are you currently attending school?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl07aa>
+- How many hours did you join in a class during last week
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl08b>
+- Level of schooling currently attending
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl2type>
+- Highest level school attended/or are attending?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl16j>
+- Time of a one-way trip to school
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl16ja>
+- What is the time of a 1/way trip to school?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl31bx_a2>
+- Estimate Rp spent in 2013/2014: tuition and fees (able to answer)
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+- <dl44bx_a2>
+- Estimate Rp spent last month: tuition and fees (able to answer)
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B3a.txt
+
+
+ HOUSEHOLD ECONOMY; B2
+- <kr03>
+- What is the status your house?
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B2.txt 
+
+
+
+ HOUSEHOLD TRACKING; HTRACK
+ - <SCO_14_14>
+- 2014 Province, 2014 BPS Code
+- IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_HTRACK.txt 
+
+
+
+
+- name: KR03
+- status of house (owned, rent, etc.)
+- documented in: IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_B2.txt
+
+
+- name: SC05_93, SC05_97
+- urban/rural residence
+- documented in: IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_HTRACK.txt
+
+- name: SC01_93, SC01_97
+- province of residence
+- documented in: IFLS5/IFLS5_hh_codebooks/ifls2014_hhd_HTRACK.txt
+
+

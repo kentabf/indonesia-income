@@ -1,0 +1,19 @@
+,Mean,Standard Deviation
+"Total household education expenditure in 2007 (Rupiah, thousands)",3596.6,5823.8
+"Log total household education expenditure in 2007 (Rupiah, thousands)",7.419,1.792
+Drought index of 2006 (mm),-0.488,0.401
+Drought index of 2006 for months only during rainy season (mm),-0.628,0.509
+Drought index of 2006 for months only during dry season (mm),-0.194,0.275
+Number of elementary school age boys in household,0.5,0.6
+Number of elementary school age girls in household,0.45,0.58
+Number of middle school age boys in household,0.38,0.55
+Number of middle school age girls in household,0.37,0.54
+Number of high school age boys in household,0.32,0.48
+Number of high school age girls in household,0.32,0.48
+"Total number of boys (of elementary, middle, and high school age) in household",1.36,0.92
+"Total number of girls (of elementary, middle, and high school age) in household",1.27,0.9
+Primary source of income for community that household resides is agriculture (1=,0.53,0.5
+Whether or not current residence is owned by household (1=Yes),0.84,0.37
+"Number of schools (elementary, middle, and high) in community",8.37,3.2
+Size of household,7.562,2.940
+Observations,1266,

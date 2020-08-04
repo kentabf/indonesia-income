@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0                    11.N. Aceh Darussalam                            1      0.01\
+                   12.North Sumatera                              911      6.73\
+                   13.West Sumatera                               627      4.63\
+                   14.Riau                                        100      0.74\
+                   16.South Sumatera                              579      4.28\
+                   18.Lampung                                     521      3.85\
+                   19.Bangka Belitung                              73      0.54\
+                   21                                              33      0.24\
+                   31.Jakarta                                     994      7.34\
+                   32.West Java                                 2,162     15.97\
+                   33.Central Java                              1,616     11.94\
+                   34.DI Yogyakarta                               714      5.27\
+                   35.East Java                                 1,934     14.29\
+                   36.Banten                                      485      3.58\
+                   51.Bali                                        635      4.69\
+                   52.West Nusa Tenggara                          837      6.18\
+                   61.West Kalimantan                               1      0.01\
+                   62.Central Kalimantan                           12      0.09\
+                   63.South Kalimantan                            619      4.57\
+                   64.East Kalimantan                              33      0.24\
+                   71.North Sulawesi                                1      0.01\
+                   73.South Sulawesi                              620      4.58\
+                   76                                              28      0.21}

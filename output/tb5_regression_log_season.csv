@@ -1,0 +1,45 @@
+="Log total household education expenditure in 2007 (Rupiah, thousands)"
+
+="",="(1)",="(2)",="(3)",="(4)"
+
+="Drought index of 2006 for months only during rainy season (mm)",="-0.518***",="-0.446***",="-0.466***",="-0.537***"
+="",="(0.143)",="(0.141)",="(0.141)",="(0.156)"
+
+="Drought index of 2006 for months only during dry season (mm)",="-0.869***",="-1.041***",="-1.075***",="-1.302***"
+="",="(0.235)",="(0.233)",="(0.233)",="(0.272)"
+
+="Number of elementary school age boys in household",="0.321***",="0.316***",="0.324***",="0.244*"
+="",="(0.121)",="(0.119)",="(0.119)",="(0.129)"
+
+="Number of elementary school age girls in household",="0.351***",="0.355***",="0.355***",="0.309**"
+="",="(0.122)",="(0.120)",="(0.119)",="(0.132)"
+
+="Number of middle school age boys in household",="0.198",="0.255*",="0.260*",="0.253*"
+="",="(0.142)",="(0.140)",="(0.140)",="(0.152)"
+
+="Number of middle school age girls in household",="0.00886",="0.0282",="0.0237",="0.0567"
+="",="(0.146)",="(0.144)",="(0.143)",="(0.155)"
+
+="Number of high school age boys in household",="-0.303*",="-0.275",="-0.277*",="-0.259"
+="",="(0.171)",="(0.167)",="(0.167)",="(0.181)"
+
+="Number of high school age girls in household",="0.245",="0.275*",="0.278*",="0.240"
+="",="(0.166)",="(0.163)",="(0.163)",="(0.180)"
+
+="Primary source of income for community that household resides is agriculture (1=",="",="-0.686***",="-0.734***",="-0.611***"
+="",="",="(0.131)",="(0.134)",="(0.164)"
+
+="Whether or not current residence is owned by household (1=Yes)",="",="",="0.325*",="0.607***"
+="",="",="",="(0.190)",="(0.219)"
+
+="Number of schools (elementary, middle, and high) in community",="",="",="",="0.0751***"
+="",="",="",="",="(0.0217)"
+
+="Constant",="6.415***",="6.749***",="6.469***",="5.476***"
+="",="(0.243)",="(0.246)",="(0.296)",="(0.390)"
+
+="Observations",="686",="686",="686",="572"
+="R-squared",="0.074",="0.110",="0.114",="0.139"
+
+="Standard errors in parentheses"
+="* p<0.10, ** p<0.05, *** p<0.01"

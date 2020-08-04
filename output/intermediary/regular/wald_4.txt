@@ -1,0 +1,46 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{
+{\b\qc\line IGNORE }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2300\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3700\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx7900
+\ql { Variable}\cell
+\qr { Obs}\cell
+\qr { Mean}\cell
+\qr { Std.Dev.}\cell
+\qr { Min}\cell
+\qr { Max}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1500\cellx2300\cellx3700\cellx5100\cellx6500\cellx7900
+\ql { educ_ex~2007}\cell
+\qr {1266}\cell
+\qr {3596.559}\cell
+\qr {5823.849}\cell
+\qr {0}\cell
+\qr {120000}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7900\cell
+\row}
+
+{\b\qc\line  }{\par}
+\fs20 { ( 1)  num_boys_e_school - num_girls_e_school = 0}\line
+\fs20 {       F(  1,   871) =    0.20}\line
+\fs20 {            Prob > F =    0.6517}\line
+
+{\b\qc\line  }{\par}
+\fs20 { ( 1)  num_boys_m_school - num_girls_m_school = 0}\line
+\fs20 {       F(  1,   871) =    0.06}\line
+\fs20 {            Prob > F =    0.8101}\line
+
+{\b\qc\line  }{\par}
+\fs20 { ( 1)  num_boys_h_school - num_girls_h_school = 0}\line
+\fs20 {       F(  1,   871) =    3.11}\line
+\fs20 {            Prob > F =    0.0781}\line
+
+
+\writepositionforappend
+}}
